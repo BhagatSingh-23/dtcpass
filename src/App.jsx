@@ -25,7 +25,7 @@ function App() {
 
           </span>
 
-          <div className='redP'>Valid from 23/04/2025 to 22/09/2025</div>
+          <div className='redP'>Valid from 22/04/2025 to 21/09/2025</div>
 
           <div className='foot-img'>
             <div className='sign-img'><img src="./sign.png" alt="" width={80} /></div>
