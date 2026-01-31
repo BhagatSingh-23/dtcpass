@@ -80,6 +80,7 @@ h2 {
 
 .pass {
   /* margin: 0.5rem; */
+  margin-top: 0.5rem;
   font-weight: bold;
   font-size: 1.5rem;
   text-align: center;
@@ -87,7 +88,7 @@ h2 {
 }
 
 .appNo {
-  margin: 0.5rem;
+  margin-top: 0.5rem;
   color: #2f8a12;
   text-align: center;
   animation: fadeInOut 1.7s ease-in-out infinite;
