@@ -31,7 +31,7 @@ html, body {
 }
 
 .bookmark {
-  width: 90vw;
+  width: 100vw;
   max-width: 100%;
   display: block;
   position: absolute;
@@ -40,10 +40,11 @@ html, body {
   z-index: 10;
   mix-blend-mode: multiply;
   object-fit: cover;
+  
 }
 
 .main-container {
-  border: 1px solid rgb(220, 218, 218);
+  /* border: 1px solid rgb(220, 218, 218); */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -61,7 +62,7 @@ h2 {
   text-decoration: underline;
   display: block;
   text-align: center;
-  border: 1px solid rgb(220, 218, 218);
+  border-bottom: 1px solid rgb(220, 218, 218);
 }
 
 .passport {
